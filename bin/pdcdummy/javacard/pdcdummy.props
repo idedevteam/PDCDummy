@@ -1,0 +1,10 @@
+#package specification
+#Mon Nov 05 13:45:43 WIB 2018
+pdcdummy-major=1
+pdcdummy-aid=70646364756D6D79
+masktools-version=3.0
+pdcdummy.PDCDummy-aid=50444344554D4D59
+pdcdummy-minor=0
+jcop-packages=pdcdummy
+pdcdummy-base=internal
+pdcdummy-clazzes=pdcdummy.PDCDummy
